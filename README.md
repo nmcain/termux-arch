@@ -12,7 +12,7 @@ The script will make its files in the current directory. So if you want your Arc
 ```
 mkdir -p ~/nmcain/arch
 cd ~/nmcain/arch
-wget https://raw.githubusercontent.com/Neo-Oli/termux-ubuntu/master/ubuntu.sh
+wget https://raw.githubusercontent.com/nmcain/termux-arch/master/arch.sh
 bash arch.sh
 ```
 
