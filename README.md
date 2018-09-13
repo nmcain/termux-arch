@@ -1,4 +1,4 @@
-# termux-ubuntu
+# termux-arch
 
 A script to install an Arch chroot in Termux
 
